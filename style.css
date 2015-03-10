@@ -1,0 +1,21 @@
+/*--CSS--*/
+
+@import {}
+
+html {
+ background-color: d1d1d1;
+}
+
+.victor {
+position: absolute;
+top: 0;
+left:0;
+right: 0;
+bottom: 0;
+margin: auto;
+width: 50%;
+height: 50px;
+background-color: f1f1f1;
+transform: rotate(-4deg);
+
+}
