@@ -9,12 +9,18 @@
 	</head>
 
 	<body>
-		<div id="victor" class="victor">fff</div>
-                <div id="" class="none">victor</div>
-<div id="" class="none">dfadfar</div>
+	<!-- form victor --->
+	        <div>
+		<input type="text" placeholder="victor"></input>
+		<select>
+			<option>dfd</option>
+		</select>
+		<input type="submit"></input>
 
+		</div>
+			<div id="victor" class="victor">fff</div>
+	                <div id="" class="none">victor</div>
+		<div id="" class="none">dfadfar</div>
 	</body>
-
-
-
+	
 </html>
